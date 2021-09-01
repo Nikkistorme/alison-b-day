@@ -72,7 +72,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style>
 
 * {
   box-sizing: border-box;
@@ -97,25 +97,28 @@ body {
   max-width: 25%;
   min-width: 250px;
   height: min-content;
-  @media (max-width: 1000px) {
-    flex: calc(100% / 3);
-    max-width: calc(100% / 3);
-  }
-  @media (max-width: 750px) {
-    flex: 50%;
-    max-width: 50%;
-  }
-  @media (max-width: 500px) {
-    flex: 100%;
-    max-width: 100%;
-  }
 }
 img {
-  /* max-width: 100%;
-  width: auto;
-  height: auto; */
   display: block;
   width: 100%;
 }
+  @media (max-width: 1000px) {
+    .column {
+      flex: calc(100% / 3);
+      max-width: calc(100% / 3);
+    }
+  }
+  @media (max-width: 750px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  @media (max-width: 500px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
 </style>>
 
