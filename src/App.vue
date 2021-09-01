@@ -42,7 +42,7 @@
       <img alt="Alison is the best" src="./assets/caitlin5.jpg">
       <img alt="Alison is the best" src="./assets/chelsea6.jpg">
       <img alt="Alison is the best" src="./assets/melody7.jpg">
-      <img alt="Alison is the best" src="./assets/letter7.jpg">
+      <!-- <img alt="Alison is the best" src="./assets/letter7.jpg"> -->
       <img alt="Alison is the best" src="./assets/other8.jpg">
       <img alt="Alison is the best" src="./assets/caitlin9.jpg">
       <img alt="Alison is the best" src="./assets/chelsea10.jpg">
@@ -58,7 +58,7 @@
       <img alt="Alison is the best" src="./assets/caitlin6.png">
       <img alt="Alison is the best" src="./assets/chelsea7.jpg">
       <img alt="Alison is the best" src="./assets/melody8.jpg">
-      <img alt="Alison is the best" src="./assets/letter8.jpg">
+      <!-- <img alt="Alison is the best" src="./assets/letter8.jpg"> -->
       <img alt="Alison is the best" src="./assets/other9.jpg">
       <img alt="Alison is the best" src="./assets/other11.jpg">
     </div>
