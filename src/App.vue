@@ -23,6 +23,7 @@
       <img alt="Alison is the best" src="./assets/chelsea13.jpg">
     </div>
     <div class="column">
+      <img alt="Alison is the best" src="./assets/letter24.jpg">
       <img alt="Alison is the best" src="./assets/chelsea1.jpg">
       <img alt="Alison is the best" src="./assets/melody2.jpg">
       <img alt="Alison is the best" src="./assets/letter2.jpg">
