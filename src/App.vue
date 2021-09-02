@@ -31,7 +31,8 @@
       <img alt="Alison is the best" src="./assets/chelsea5.jpg">
       <img alt="Alison is the best" src="./assets/melody6.jpg">
       <img alt="Alison is the best" src="./assets/letter6.png">
-      <img alt="Alison is the best" src="./assets/other7.jpg">
+      <img alt="Alison is the best" src="./assets/chelsea15.jpg">
+      <img alt="Alison is the best" src="./assets/chelsea16.jpg">
       <img alt="Alison is the best" src="./assets/caitlin8.jpg">
       <img alt="Alison is the best" src="./assets/letter20.jpg">
       <img alt="Alison is the best" src="./assets/chelsea9.jpg">
