@@ -20,6 +20,7 @@
       <img alt="Alison is the best" src="./assets/melody9.jpg">
       <img alt="Alison is the best" src="./assets/letter21.jpg">
       <img alt="Alison is the best" src="./assets/other10.jpg">
+      <img alt="Alison is the best" src="./assets/chelsea13.jpg">
     </div>
     <div class="column">
       <img alt="Alison is the best" src="./assets/chelsea1.jpg">
@@ -38,8 +39,11 @@
       <img alt="Alison is the best" src="./assets/letter10.jpg">
       <img alt="Alison is the best" src="./assets/other14.jpg">
       <img alt="Alison is the best" src="./assets/chelsea11.jpg">
+      <img alt="Alison is the best" src="./assets/chelsea14.jpg">
     </div>
     <div class="column">
+      <img alt="Alison is the best" src="./assets/other17.jpeg">
+      <img alt="Alison is the best" src="./assets/letter23.png">
       <img alt="Alison is the best" src="./assets/caitlin1.jpg">
       <img alt="Alison is the best" src="./assets/melody3.jpg">
       <img alt="Alison is the best" src="./assets/letter3.png">
@@ -48,6 +52,7 @@
       <img alt="Alison is the best" src="./assets/chelsea6.jpg">
       <img alt="Alison is the best" src="./assets/letter17.jpg">
       <img alt="Alison is the best" src="./assets/other12.jpg">
+      <img alt="Alison is the best" src="./assets/letter24.png">
       <img alt="Alison is the best" src="./assets/letter7-2.jpg">
       <img alt="Alison is the best" src="./assets/other8.jpg">
       <img alt="Alison is the best" src="./assets/other15.jpg">
@@ -73,6 +78,7 @@
       <img alt="Alison is the best" src="./assets/letter8-2.jpg">
       <img alt="Alison is the best" src="./assets/other9.jpg">
       <img alt="Alison is the best" src="./assets/other11.jpg">
+      <img alt="Alison is the best" src="./assets/other18.jpeg">
     </div>
   </div>
 </template>
