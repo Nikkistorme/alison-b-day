@@ -42,7 +42,7 @@
       <img alt="Alison is the best" src="./assets/caitlin5.jpg">
       <img alt="Alison is the best" src="./assets/chelsea6.jpg">
       <img alt="Alison is the best" src="./assets/melody7.jpg">
-      <!-- <img alt="Alison is the best" src="./assets/letter7.jpg"> -->
+      <img alt="Alison is the best" src="./assets/letter7.jpg">
       <img alt="Alison is the best" src="./assets/other8.jpg">
       <img alt="Alison is the best" src="./assets/caitlin9.jpg">
       <img alt="Alison is the best" src="./assets/chelsea10.jpg">
