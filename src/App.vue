@@ -6,6 +6,8 @@
       <img alt="Alison is the best" src="./assets/letter1.png">
       <img alt="Alison is the best" src="./assets/other2.jpg">
       <img alt="Alison is the best" src="./assets/caitlin3.jpg">
+      <img alt="Alison is the best" src="./assets/letter9.jpg">
+      <img alt="Alison is the best" src="./assets/chelsea2.jpg">
       <img alt="Alison is the best" src="./assets/letter13.jpg">
       <img alt="Alison is the best" src="./assets/chelsea4.jpg">
       <img alt="Alison is the best" src="./assets/melody5.jpg">
@@ -16,7 +18,7 @@
       <img alt="Alison is the best" src="./assets/chelsea8.jpg">
       <img alt="Alison is the best" src="./assets/letter11.jpg">
       <img alt="Alison is the best" src="./assets/melody9.jpg">
-      <img alt="Alison is the best" src="./assets/letter9.jpg">
+      <img alt="Alison is the best" src="./assets/letter21.jpg">
       <img alt="Alison is the best" src="./assets/other10.jpg">
     </div>
     <div class="column">
@@ -39,11 +41,8 @@
     </div>
     <div class="column">
       <img alt="Alison is the best" src="./assets/caitlin1.jpg">
-      <img alt="Alison is the best" src="./assets/chelsea2.jpg">
-      <img alt="Alison is the best" src="./assets/other15.jpg">
       <img alt="Alison is the best" src="./assets/melody3.jpg">
       <img alt="Alison is the best" src="./assets/letter3.png">
-      <img alt="Alison is the best" src="./assets/other4.jpg">
       <img alt="Alison is the best" src="./assets/letter16.jpg">
       <img alt="Alison is the best" src="./assets/caitlin5.jpg">
       <img alt="Alison is the best" src="./assets/chelsea6.jpg">
@@ -51,8 +50,10 @@
       <img alt="Alison is the best" src="./assets/other12.jpg">
       <img alt="Alison is the best" src="./assets/letter7-2.jpg">
       <img alt="Alison is the best" src="./assets/other8.jpg">
+      <img alt="Alison is the best" src="./assets/other15.jpg">
       <img alt="Alison is the best" src="./assets/caitlin9.jpg">
       <img alt="Alison is the best" src="./assets/chelsea10.jpg">
+      <img alt="Alison is the best" src="./assets/letter22.jpg">
       <img alt="Alison is the best" src="./assets/chelsea12.jpg">
     </div>
     <div class="column">
@@ -69,7 +70,7 @@
       <img alt="Alison is the best" src="./assets/chelsea7.jpg">
       <img alt="Alison is the best" src="./assets/melody8.jpg">
       <img alt="Alison is the best" src="./assets/letter18.jpg">
-      <!-- <img alt="Alison is the best" src="./assets/letter8.jpg"> -->
+      <img alt="Alison is the best" src="./assets/letter8-2.jpg">
       <img alt="Alison is the best" src="./assets/other9.jpg">
       <img alt="Alison is the best" src="./assets/other11.jpg">
     </div>
